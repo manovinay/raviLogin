@@ -14,3 +14,4 @@ for periodical build
 for pollSCM
 again for pollscm
 again itrail in lab for freestyle
+for frestyle in webhook
