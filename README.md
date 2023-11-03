@@ -13,3 +13,4 @@ omg! still im practising freestyles in jenkins....damn!!
 for periodical build
 for pollSCM
 again for pollscm
+again itrail in lab for freestyle
